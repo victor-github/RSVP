@@ -1,0 +1,8 @@
+ShopKeep POS
+Avrohom Katz
+iambpentameter@gmail.com
+
+True concurrency and my experience with it is relatively new in ruby. I'd like to know best practices for concurrency in ruby.
+
+Haven't done much concurrency in ruby, but I'd like to see it easier to play around with.
+
