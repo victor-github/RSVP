@@ -1,0 +1,4 @@
+Matt Newton, Bloomberg LP, newton10471@gmail.com
+I'd like to learn the basics of ruby concurrency - what tools are out there and what are the most-used techniques to implement concurrent systems.
+I don't know enough about ruby concurrency to answer this last question adequately, but I haven't seen it documented much in the books and articles I've read up to now.  Maybe it would be better to have more documentation and discussion about concurrency programming as part of the standard ruby documentation.
+
