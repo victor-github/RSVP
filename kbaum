@@ -1,0 +1,11 @@
+Name: Karl Baum
+
+Company: View The Space
+
+Email: karl.baum@gmail.com
+
+What would you like to learn about ruby concurrency?
+I would like to learn how to get the most out of ruby concurrency either using MRI with GVL or possibly an alternative ruby implementation like Jruby.
+
+What do you wish ruby did better for concurrency?
+I wish ruby MRI did not have a GVL allowing for true concurrent processing.
