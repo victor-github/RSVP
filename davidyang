@@ -1,0 +1,11 @@
+Your company, name and email
+
+Yealthy - David Yang - david.g.yang@gmail.com
+
+What would you like to learn about ruby concurrency?
+
+Concurrency updates in Ruby 2.0.  Support for Concurrency in JRuby.  Using some of the newer Java/Scala libraries for JRuby concurrency.
+
+What do you wish ruby did better for concurrency?
+
+Higher level primitives for concurrency so it's easier for library makers to support various types of concurrency, or having a standard way of describing concurrency requirements in gems.
