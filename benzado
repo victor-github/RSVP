@@ -1,0 +1,13 @@
+From: Benjamin Ragheb <ben@logcheckapp.com>
+Company: Emergent Properties
+Product: LogCheck, http://www.logcheckapp.com/
+
+# What would you like to learn about ruby concurrency?
+
+Anything! In a previous life I wrote a lot of Producer-Consumer queues in Java, but in Ruby I am either working on Rails
+or in small shell scripts, so I don't explictly deal with threads at all. I imagine there are a lot of obscure gotchas
+having to do with Ruby's object model.
+
+# What do you wish ruby did better for concurrency?
+
+I don't know what it does poorly!
