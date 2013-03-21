@@ -1,0 +1,33 @@
+What would you like to learn about ruby concurrency?
+----------------------------------------------------
+
+* Best practices from real production apps using concurrency.
+* Using Ruby to take advantage of powerful concurrent/parrallel hardware (ie: OpenCL integration, leveraging GPGPU).
+    * Examples
+        * Working with or integrating with OpenCL through Ruby
+        * Utilizing GPGPU hardware through Ruby
+    * I know Ruby is likely not the best too for the job, but I want to do it anyways. Teach me if you know how.
+* Different forms of concurrency
+    * Threads
+    * Fibers
+    * Evented I/O (EventMachine, Reactor Pattern)
+    * Multi-process
+* Mechanisms and tools for sharing data in a thread/concurrent safe way between threads/processes/servers/etc.
+
+What do you wish ruby did better for concurrency?
+-------------------------------------------------
+
+* I wish MRI flavors of ruby didn't have the GIL (Global Interpretter Lock)
+* I wish more people would use concurrency in Ruby so the tools were better and more robust
+* I wish the best solution for writing solid highly threaded Ruby apps wasn't to run them on the JVM.
+    * I'm not 100% sure this is still true or ever was, but that's my impression.
+* I wish there were more ruby game libraries and ruby scientific libraries (like SciPy/NumPy) that often require
+  concurrency to use. The users of such tools would likely force the Ruby community to take performance and
+  concurrency more seriously. Also, unrelated to the question, I want to make amazing games with my fav lang.
+
+How do you feel about our signup process?
+-----------------------------------------
+
+You didn't ask, but I'll answer anyways. I love it but also see how it could be a problem.
+Who is the audience for my answers to your questions? I fear the time I've spent on thinking about the answers
+and writing them out will likely be wasted as no one will ever read it. Please prove me wrong.
