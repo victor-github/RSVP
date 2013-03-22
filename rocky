@@ -1,0 +1,7 @@
+# What would you like to learn about ruby concurrency?
+
+Not looking for anything specifically, but if someone has something organized and a well-presented, I would like to hear.
+
+# What do you wish ruby did better for concurrency?
+
+Well, there's removing GIL,  for which I believe there is rubinius. And there is adding Hoare's CSP event syncronization model which is done nicely in Ada (for an older language) and go and Scala newer ones. 
