@@ -1,0 +1,14 @@
+Company: How About We
+Name: George Ogata
+Email: george.ogata@gmail.com
+
+## What would you like to learn about ruby concurrency?
+
+* Experiences from those using ruby or rails in a highly concurrent environment.
+* Rails Core's plans for fiber-based concurrency support (a la em-synchrony).
+* What could ruby take from other languages to improve the concurrency situation.
+
+## What do you wish ruby did better for concurrency?
+
+* Finer grained GIL (remove the "G").
+* Better thready safety in libraries, and documentation to this effect.
