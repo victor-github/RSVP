@@ -1,0 +1,8 @@
+What would you like to learn about ruby concurrency?
+-> Are we finally getting GIL-less threads in cRuby?
+-> Do we have to use JRuby to avoid the GIL?
+-> Is there a way to get native threads like in C/C++/Java?
+-> Are there threadpools and other thread related stuff like in C++ Boost (hopefully easier to use)?
+ 
+What do you wish ruby did better for concurrency?
+-> Wish we had native threads as fast as Java?
