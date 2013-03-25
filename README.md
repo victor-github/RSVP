@@ -12,3 +12,5 @@ RSVP
 NOTE
 ====
 When your RSVP has been accepted, your pull request will be merged in. Due to space constraints, we will not be able to accomidate everyone.
+
+If you know you cannot attend but have already been merged, please email us at devs@gust.com with your github name and we will unmerge your pull request and make room for someone else.
