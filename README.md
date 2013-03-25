@@ -8,3 +8,7 @@ RSVP
   - What would you like to learn about ruby concurrency?
   - What do you wish ruby did better for concurrency?
 4. Send us a pull request.
+
+NOTE
+====
+When your RSVP has been accepted, your pull request will be merged in. Due to space constraints, we will not be able to accomidate everyone.
