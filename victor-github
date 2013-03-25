@@ -1,0 +1,4 @@
+* What would you like to learn about ruby concurrency?
+Everything there is to know :) Latest developments in Ruby 2.0 - GIL, fibers, etc.
+* What do you wish ruby did better for concurrency? 
+No GIL; actors? better primitives for concurrency as in Clojure; immutable data structures; STM?
